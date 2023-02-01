@@ -56,7 +56,3 @@
 
 **sudo systemctl reload apache2** 
 
-[reload_apache_error](./reload_apache_error/.PMG)
-
-
-ghfxdhfjg
