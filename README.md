@@ -54,5 +54,4 @@
 [Php_config](./Php_config/.PMG)
 
 
-**sudo systemctl reload apache2** 
-
+**sudo systemctl reload
